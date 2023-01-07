@@ -1,6 +1,7 @@
 .feynman__main-illustration {
   display: block;
   position: absolute;
+  object-fit: fill;
   width: 837px;
   height: 637px;
   bottom: 0;
